@@ -25,28 +25,25 @@
         <menu-lateral />
       </f7-block>
     </f7-view>
- 
-
     
-    
-    <!-- <f7-panel left reveal init data-visible-breakpoint="1">
+   <f7-panel left reveal init data-visible-breakpoint="1">
       <f7-view>
         <f7-page>
-          <f7-navbar title="Left Panel"></f7-navbar>
+          <!-- <f7-navbar title="Left Panel"></f7-navbar> -->
           <f7-block>Panel izquiero desde home.vue</f7-block>
         </f7-page>
       </f7-view>
-    </f7-panel> -->
+    </f7-panel>
 
-<!-- <f7-block-title>With icons</f7-block-title> -->
-    <!-- <f7-block strong class="no-padding-horizontal">
+<f7-block-title>With icons</f7-block-title> 
+     <f7-block strong class="no-padding-horizontal">
       <f7-treeview>
         <f7-treeview-item label="" icon-f7="logo_github" />texto
         <f7-treeview-item label="" icon-f7="logo_github" />texto
         <f7-treeview-item label="" icon-f7="logo_github" />texto
         <f7-treeview-item label="" icon-f7="logo_github" />texto
       </f7-treeview>
-    </f7-block> -->
+    </f7-block> 
     
   </f7-page>
 </template>
